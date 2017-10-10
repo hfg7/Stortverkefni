@@ -1,31 +1,36 @@
-# Verkefni7 
+# Verkefni7
 
 
 
 
-Eins og nafnið gefur til kynna er um að ræða verkefni nr 7 í vefforritun við HÍ. Verkefnið snérist um að búa til
-vefsíðu eftir forskrift og er þetta afraksturinn.
+Eins og nafniï¿½ gefur til kynna er um aï¿½ rï¿½ï¿½a verkefni nr 7 ï¿½ vefforritun viï¿½ Hï¿½. Verkefniï¿½ snï¿½rist um aï¿½ bï¿½a til
+vefsï¿½ï¿½u eftir forskrift og er ï¿½etta afraksturinn.
 
 
-Til þess að keyra síðuna skal einfaldlega smella á index.html.
-Ef áhugi er fyrir því að lagfæra, breyta eða gera eitthvað við verkefnið er fólki frjálst að gera það.
-Til þess þarf að ná í node.js inn á https://nodejs.org/en/. Eftir að npm hefur verið sett upp skal 
-runa verkefnið í cmd/terminal með skipuninni -npm run dev, og þá opnast browser gluggi sem uppfærist
-sjálfkrafa eftir að html eða scss skjal hefur verið saveað.
+Til ï¿½ess aï¿½ keyra sï¿½ï¿½una skal einfaldlega smella ï¿½ index.html.
+Ef ï¿½hugi er fyrir ï¿½vï¿½ aï¿½ lagfï¿½ra, breyta eï¿½a gera eitthvaï¿½ viï¿½ verkefniï¿½ er fï¿½lki frjï¿½lst aï¿½ gera ï¿½aï¿½.
+Til ï¿½ess ï¿½arf aï¿½ nï¿½ ï¿½ node.js inn ï¿½ https://nodejs.org/en/. Eftir aï¿½ npm hefur veriï¿½ sett upp skal
+runa verkefniï¿½ ï¿½ cmd/terminal meï¿½ skipuninni -npm run dev, og ï¿½ï¿½ opnast browser gluggi sem uppfï¿½rist
+sjï¿½lfkrafa eftir aï¿½ html eï¿½a scss skjal hefur veriï¿½ saveaï¿½.
 
-Efni verkefnis hefur verið skipt í möppur og skrár. 
+Efni verkefnis hefur veriï¿½ skipt ï¿½ mï¿½ppur og skrï¿½r.
 
-scss skjalið inniheldur scss skrár. 
-button.scss inniheldur stýlun á takka inni á síðunni.
-footer.scss er footerinn á síðunni í heild
-grid.scss er grind sem er undirstaða uppröðunnar á síðunni. Þar er útbúin grind með ákveðnum bilum og innihald síðunnar raðað eftir henni.
-header.scss er stýlun á headernum.
-heading.scss er stýlun á heading
-main.scss er stýlun á allri forsíðunni.
-text-seinni.scss er síðan stýlun á um.html og kaupa.html
+scss skjaliï¿½ inniheldur scss skrï¿½r.
+button.scss inniheldur stï¿½lun ï¿½ takka inni ï¿½ sï¿½ï¿½unni.
+footer.scss er footerinn ï¿½ sï¿½ï¿½unni ï¿½ heild
+grid.scss er grind sem er undirstaï¿½a upprï¿½ï¿½unnar ï¿½ sï¿½ï¿½unni. ï¿½ar er ï¿½tbï¿½in grind meï¿½ ï¿½kveï¿½num bilum og innihald sï¿½ï¿½unnar raï¿½aï¿½ eftir henni.
+header.scss er stï¿½lun ï¿½ headernum.
+heading.scss er stï¿½lun ï¿½ heading
+main.scss er stï¿½lun ï¿½ allri forsï¿½ï¿½unni.
+text-seinni.scss er sï¿½ï¿½an stï¿½lun ï¿½ um.html og kaupa.html
 
-Skrár.
+Skrï¿½r.
 
-elements.html er stýlun síðunnar.
-grid.css er sýnilegt grid sem hægt er að nýta sér.
-index.html, kaupa.html og um.html er html sem er allt inni á síðunni, þar sem index er forsíðan.
+elements.html er stï¿½lun sï¿½ï¿½unnar.
+grid.css er sï¿½nilegt grid sem hï¿½gt er aï¿½ nï¿½ta sï¿½r.
+index.html, kaupa.html og um.html er html sem er allt inni ï¿½ sï¿½ï¿½unni, ï¿½ar sem index er forsï¿½ï¿½an.
+
+
+HÃ¶gni Freyr Gunnarsson. email: hfg7@hi.is
+TÃ³mas Ragnarsson. email: tor6@hi.is
+Ãžorsteinn Ã“skarsson email: tho85@hi.is
