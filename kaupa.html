@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="is">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,19 +33,28 @@
       </header>
 
 <main>
+
 <section>
+
 <form method="get" action="kaupa.html">
-  <div class="heild">
-    <div class="personu">
+
+<div class="form">
+
+  <div class="form__person">
       <h2>Persónuupplýsingar</h2>
-        Nafn:<br>
-        <input type="text" name="nafn" required><br>
+          Nafn:
+        <br>
+        <input class="lengd" type="text" name="nafn" required><br>
         Kennitala:<br>
-        <input type="text" name="kt"  value="123456-7890" required><br>
+        <input class="lengd" type="text" name="kt"  value="123456-7890" required><br>
 
       <div class="ratio">
+        <p>
+          kyn:
+        </p>
         <label>
-          <input type="radio" name="kyn" value="Karl" required> Karl</label><br>
+          <input type="radio" name="kyn" value="Karl" required>
+        Karl</label><br>
         <label>
           <input type="radio" name="kyn" value="Kona" required> Kona</label><br>
         <label>
@@ -53,16 +62,16 @@
         </div>
         <div class="sími__heim">
           Sími:<br>
-          <input type="text" class="sími" name="simi"  value="555-5555" required><br>
+          <input class="lengd" type="text" class="sími" name="simi"  value="555-5555" required><br>
           Heimilisfang:<br>
-          <input type="text" name="heimilisfang" required><br>
+          <input class="lengd" type="text" name="heimilisfang" required><br>
           <label>
             <input type="checkbox" name="postur" checked>Skrá mig á póstlista
           </label>
           </div>
      </div>
 
-     <div class="greidslu">
+  <div class="form__pay">
         <h2>Greiðsluupplýsingar</h2>
           Greiða með:<br>
           <select class="kort" name="kort">
@@ -71,12 +80,12 @@
             <option value="Millifærsla">Millifærsla</option>
           </select><br>
         Nafn á korti:<br>
-        <input type="text" name="nafn" required><br>
+        <input class="lengd" type="text" name="nafn" required><br>
         Kortanúmer:<br>
-        <input type="text" name="kortanr"  value="5555-5555-5555-5555" required><br>
+        <input class="lengd" type="text" name="kortanr"  value="5555-5555-5555-5555" required><br>
         Gildistími:<br>
-        Mán:
         <div class="valid">
+          <p>Mán:</p>
           <select class="gildis" name="manudur" required>
            <option value="Jan">1</option>
            <option value="feb">2</option>
@@ -91,7 +100,7 @@
            <option value="nov">11</option>
            <option value="des">12</option>
          </select>
-        Ár:
+        <p>Ár:</p>
         <select class="gildis" name="ar" required>
           <option value="2017">2017</option>
           <option value="2018">2018</option>
@@ -103,7 +112,9 @@
         </select>
       </div>
     </div>
-    </div>
+  </div>
+
+
     <div class="takki__panta">
   <a href="#" class="button button__order">Panta</a>
     </div>

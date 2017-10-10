@@ -1,0 +1,59 @@
+.form {
+  display: flex;
+  justify-content: space-around;
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+  }
+
+  &__person {
+    width: 35%;
+    padding-bottom: 5rem;
+
+    @media (max-width: 600px) {
+      width: 90%;
+    }
+  }
+
+  &__pay {
+    width: 35%;
+    padding-bottom: 5rem;
+
+    @media (max-width: 600px) {
+      width: 90%;
+    }
+  }
+}
+
+.lengd {
+  width: 80%;
+
+  @media (max-width: 600px) {
+    max-width: 350px;
+  }
+}
+
+
+.takki__panta {
+  display: flex;
+  justify-content: center;
+}
+
+.form input {
+  margin: 0.5rem 0;
+}
+
+.form select {
+  margin: 0.5rem 0;
+  width: 80%;
+}
+
+.valid {
+  display: flex;
+  justify-content: space-around;
+  max-width: 300px;
+}
+
+.valid select {
+  max-width: 60px;
+}
