@@ -21,9 +21,8 @@ footer.scss er footerinn á síðunni í heild
 grid.scss er grind sem er undirstaða uppröðunnar á síðunni. Þar er útbúin grind með ákveðnum bilum og innihald síðunnar raðað eftir henni.
 header.scss er stýlun á headernum.
 heading.scss er stýlun á heading
-kaupa.scss er skjal sem inniheldur stýlun á öllu kaupa.html skjalinu er því stýlun  á vefsíðunni ef smellt er á kaupa takka.
 main.scss er stýlun á allri forsíðunni.
-text.scss er síðan stýlun á um.html
+text-seinni.scss er síðan stýlun á um.html og kaupa.html
 
 Skrár.
 
