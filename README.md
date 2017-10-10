@@ -1,31 +1,36 @@
-# Verkefni7 
+ï»¿# Verkefni7
 
 
 
 
-Eins og nafniğ gefur til kynna er um ağ ræğa verkefni nr 7 í vefforritun viğ HÍ. Verkefniğ snérist um ağ búa til
-vefsíğu eftir forskrift og er şetta afraksturinn.
+Eins og nafniÃ° gefur til kynna er um aÃ° rÃ¦Ã°a verkefni nr 7 Ã­ vefforritun viÃ° HÃ. VerkefniÃ° snÃ©rist um aÃ° bÃºa til
+vefsÃ­Ã°u eftir forskrift og er Ã¾etta afraksturinn.
 
 
-Til şess ağ keyra síğuna skal einfaldlega smella á index.html.
-Ef áhugi er fyrir şví ağ lagfæra, breyta eğa gera eitthvağ viğ verkefniğ er fólki frjálst ağ gera şağ.
-Til şess şarf ağ ná í node.js inn á https://nodejs.org/en/. Eftir ağ npm hefur veriğ sett upp skal 
-runa verkefniğ í cmd/terminal meğ skipuninni -npm run dev, og şá opnast browser gluggi sem uppfærist
-sjálfkrafa eftir ağ html eğa scss skjal hefur veriğ saveağ.
+Til Ã¾ess aÃ° keyra sÃ­Ã°na skal einfaldlega smella Ã¡ index.html.
+Ef Ã¡hugi er fyrir Ã¾vÃ­ aÃ° lagfÃ¦ra, breyta eÃ°a gera eitthvaÃ° viÃ° verkefniÃ° er fÃ³lki frjÃ¡lst aÃ° gera Ã¾aÃ°.
+Til Ã¾ess Ã¾arf aÃ° nÃ¡ Ã­ node.js inn Ã¡ https://nodejs.org/en/. Eftir aÃ° npm hefur veriÃ° sett upp skal
+runa verkefniÃ° Ã­ cmd/terminal meÃ° skipuninni -npm run dev, og Ã¾Ã¡ opnast browser gluggi sem uppfÃ¦rist
+sjÃ¡lfkrafa eftir aÃ° html eÃ°a scss skjal hefur veriÃ° saveaÃ°.
 
-Efni verkefnis hefur veriğ skipt í möppur og skrár. 
+Efni verkefnis hefur veriÃ° skipt Ã­ mÃ¶ppur og skrÃ¡r.
 
-scss skjaliğ inniheldur scss skrár. 
-button.scss inniheldur stılun á takka inni á síğunni.
-footer.scss er footerinn á síğunni í heild
-grid.scss er grind sem er undirstağa uppröğunnar á síğunni. Şar er útbúin grind meğ ákveğnum bilum og innihald síğunnar rağağ eftir henni.
-header.scss er stılun á headernum.
-heading.scss er stılun á heading
-main.scss er stılun á allri forsíğunni.
-text-seinni.scss er síğan stılun á um.html og kaupa.html
+scss skjaliÃ° inniheldur scss skrÃ¡r.
+button.scss inniheldur stÃ½lun Ã¡ takka inni Ã¡ sÃ­Ã°unni.
+footer.scss er footerinn Ã¡ sÃ­Ã°unni Ã­ heild
+grid.scss er grind sem er undirstaÃ°a upprÃ¶Ã°unnar Ã¡ sÃ­Ã°unni. Ãar er ÃºtbÃºin grind meÃ° Ã¡kveÃ°num bilum og innihald sÃ­Ã°unnar raÃ°aÃ° eftir henni.
+header.scss er stÃ½lun Ã¡ headernum.
+heading.scss er stÃ½lun Ã¡ heading
+main.scss er stÃ½lun Ã¡ allri forsÃ­Ã°unni.
+text-seinni.scss er sÃ­Ã°an stÃ½lun Ã¡ um.html og kaupa.html
 
-Skrár.
+SkrÃ¡r.
 
-elements.html er stılun síğunnar.
-grid.css er sınilegt grid sem hægt er ağ nıta sér.
-index.html, kaupa.html og um.html er html sem er allt inni á síğunni, şar sem index er forsíğan.
+elements.html er stÃ½lun sÃ­Ã°unnar.
+grid.css er sÃ½nileg grind sem hÃ¦gt er aÃ° nÃ½ta sÃ©r viÃ° uppsetningu.
+index.html, kaupa.html og um.html er html sem er allt inni Ã¡ sÃ­Ã°unni, Ã¾ar sem index er forsÃ­Ã°an.
+
+
+HÃ¶gni Freyr Gunnarsson. email: hfg7@hi.is
+TÃ³mas Ragnarsson. email: tor6@hi.is
+Ãorsteinn Ã“skarsson email: tho85@hi.is
