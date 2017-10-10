@@ -1,0 +1,126 @@
+/* staðsetning fyrir animation textan í headernum */
+
+.heading--index {
+  display: flex;
+  padding-top: 25vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Index síðan.. fyrsti hluti af henni.. 3 punktar og mynd */
+section {
+  margin-top: 6rem;
+
+  @media (max-width: $width-mid) {
+    margin-top: 4rem;
+  }
+}
+
+.info-index {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+
+  @media (max-width: $width-mid) {
+    margin: 2rem 0;
+  }
+
+  &__check {
+    width: 5%;
+  }
+
+  &__text {
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+  }
+
+  &__img {
+    max-width: 100%;
+
+    @media (max-width: $width-mid) {
+      margin-top: 2rem;
+    }
+  }
+}
+
+/* Prófílarnir/meðmælendur þrjár einingar */
+
+.profill {
+  font-style: "Open Sans", sans-serif;
+
+  &__content {
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    @media (max-width: 600px) {
+      margin-top: 4rem;
+    }
+  }
+
+  &__img {
+    display: inline-grid;
+    max-width: 75%;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  &__text {
+    text-align: center;
+
+    .quote {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      font-size: 1.4rem;
+      font-style: italic;
+      font-weight: bolder;
+    }
+
+    .nafn {
+      font-size: 1rem;
+      font-weight: bold;
+    }
+
+    .lengd {
+      font-size: 0.8rem;
+      color: #808080;
+    }
+  }
+}
+
+/* kaupatakkinn neðst á index ásamt heading */
+
+.buy {
+  margin: auto;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__text {
+    padding-bottom: 1.6rem;
+    font-family: "Roboto Slab", serif;
+    font-size: 2rem;
+    font-weight: bold;
+
+    @media (max-width: $width-mid) {
+      font-size: 1.6rem;
+    }
+  }
+
+  &__button {
+    display: flex;
+  }
+}
