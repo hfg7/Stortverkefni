@@ -1,34 +1,34 @@
-# Verkefni7
+﻿# Verkefni7
 
 
 
 
-Eins og nafni� gefur til kynna er um a� r��a verkefni nr 7 � vefforritun vi� H�. Verkefni� sn�rist um a� b�a til
-vefs��u eftir forskrift og er �etta afraksturinn.
+Eins og nafnið gefur til kynna er um að ræða verkefni nr 7 í vefforritun við HÍ. Verkefni� sn�rist um að búa til
+vefsíðu eftir forskrift og er þetta afraksturinn.
 
 
-Til �ess a� keyra s��una skal einfaldlega smella � index.html.
-Ef �hugi er fyrir �v� a� lagf�ra, breyta e�a gera eitthva� vi� verkefni� er f�lki frj�lst a� gera �a�.
-Til �ess �arf a� n� � node.js inn � https://nodejs.org/en/. Eftir a� npm hefur veri� sett upp skal
-runa verkefni� � cmd/terminal me� skipuninni -npm run dev, og �� opnast browser gluggi sem uppf�rist
-sj�lfkrafa eftir a� html e�a scss skjal hefur veri� savea�.
+Til þess að keyra síðna skal einfaldlega smella á index.html.
+Ef áhugi er fyrir því að lagfæra, breyta eða gera eitthvað við verkefnið er fólki frjálst að gera það.
+Til þess þarf að ná í node.js inn á https://nodejs.org/en/. Eftir að npm hefur verið sett upp skal
+runa verkefnið í cmd/terminal með skipuninni -npm run dev, og þá opnast browser gluggi sem uppfærist
+sjálfkrafa eftir að html eða scss skjal hefur verið saveað.
 
-Efni verkefnis hefur veri� skipt � m�ppur og skr�r.
+Efni verkefnis hefur verið skipt í möppur og skrár.
 
-scss skjali� inniheldur scss skr�r.
-button.scss inniheldur st�lun � takka inni � s��unni.
-footer.scss er footerinn � s��unni � heild
-grid.scss er grind sem er undirsta�a uppr��unnar � s��unni. �ar er �tb�in grind me� �kve�num bilum og innihald s��unnar ra�a� eftir henni.
-header.scss er st�lun � headernum.
-heading.scss er st�lun � heading
-main.scss er st�lun � allri fors��unni.
-text-seinni.scss er s��an st�lun � um.html og kaupa.html
+scss skjalið inniheldur scss skrár.
+button.scss inniheldur stýlun á takka inni á síðunni.
+footer.scss er footerinn á síðunni í heild
+grid.scss er grind sem er undirstaða uppröðunnar á síðunni. Þar er útbúin grind með ákveðnum bilum og innihald síðunnar raðað eftir henni.
+header.scss er stýlun á headernum.
+heading.scss er stýlun á heading
+main.scss er stýlun á allri forsíðunni.
+text-seinni.scss er síðan stýlun á um.html og kaupa.html
 
-Skr�r.
+Skrár.
 
-elements.html er st�lun s��unnar.
-grid.css er s�nilegt grid sem h�gt er a� n�ta s�r.
-index.html, kaupa.html og um.html er html sem er allt inni � s��unni, �ar sem index er fors��an.
+elements.html er stýlun síðunnar.
+grid.css er sýnileg grind sem hægt er að nýta sér við uppsetningu.
+index.html, kaupa.html og um.html er html sem er allt inni á síðunni, þar sem index er forsíðan.
 
 
 Högni Freyr Gunnarsson. email: hfg7@hi.is
