@@ -3,7 +3,7 @@
 
 
 
-Eins og nafnið gefur til kynna er um að ræða verkefni nr 7 í vefforritun við HÍ. Verkefni� sn�rist um að búa til
+Eins og nafnið gefur til kynna er um að ræða verkefni nr 7 í vefforritun við HÍ. Verkefnið snérist um að búa til
 vefsíðu eftir forskrift og er þetta afraksturinn.
 
 
