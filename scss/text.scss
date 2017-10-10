@@ -1,0 +1,61 @@
+.text {
+
+  &__half {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+
+    @media (max-width: 600px) {
+      justify-content: flex-start;
+      max-height: 50%;
+    }
+  }
+
+  &__quote {
+    display: flex;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.8rem;
+    font-style: italic;
+}
+
+  p {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+}
+
+//Allt hérna innan þetta comments eru classar fyrir kaup.html
+.heild {
+  display: flex;
+  margin: 4rem;
+}
+.personu{
+  margin-right: 5rem;
+  width: 100%;
+}
+.greidslu{
+margin-left: 15rem;
+width: 100%
+}
+.takki__panta{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+.heild input{
+  margin: 10px;
+  max-width: 378px;
+  width: 100%;
+}
+.heild select{
+  margin: 10px;
+  max-width: 378px;
+  width: 100%;
+}
+.valid{
+  display: flex;
+}
+.valid select{
+  max-width: 60px;
+}
